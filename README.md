@@ -20,7 +20,7 @@ This study includes the dataset of cytokine gene variants, clinical and socio-de
 
 ## Citation
 
-If you use [Cervical Cancer Analysis Code](https://github.com/manojkaushik/Cervical-Cancer) code in your research, we would appreciate a citation to both the original paper:
+If you use [Cervical Cancer Analysis Code](https://github.com/manojkaushik/Cervical-Cancer) code in your research, we would appreciate a citation to the original paper:
 
 "*Kaushik, Manoj, et al. "Cytokine gene variants and socio-demographic characteristics as predictors of cervical cancer: A machine learning approach." Computers in Biology and Medicine 134 (2021): 104559.*"
 
